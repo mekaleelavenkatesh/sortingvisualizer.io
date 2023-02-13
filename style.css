@@ -45,3 +45,8 @@ body {
     /* border: 1px solid #0275d8;
     border-radius: 5px; */
 }
+.height {
+    border-left: 6px solid yellow;
+    /* height: 30px; */
+    margin-right: 5px;
+  }
